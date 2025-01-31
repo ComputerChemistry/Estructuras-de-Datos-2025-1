@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Tarea01Matriz.dir/link.d CMakeFiles/Tarea01Matriz.dir/Sources/main.cpp.o CMakeFiles/Tarea01Matriz.dir/Sources/Matriz.cpp.o -o Tarea01Matriz

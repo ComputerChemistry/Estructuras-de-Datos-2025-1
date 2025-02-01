@@ -1,8 +1,8 @@
 /*
-Autores: Carlos Eduardo Moreno
-
-
-
+Autores: Carlos Eduardo Moreno, Joan Antonio Lazaro Silva
+Curso: Estructuras de Datos
+Fecha: 30/01/25
+Descripcion: Programa que hace operaciones con matrices
 */
 
 #include <iostream>

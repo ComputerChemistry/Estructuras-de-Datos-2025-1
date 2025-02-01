@@ -1,3 +1,0 @@
-/home/Carlos/Documentos/UNISON-Cursos/Estructuras-de-Datos-2025-1/Tareas/Tarea01/Matriz/build/CMakeFiles/Tarea01Matriz.dir
-/home/Carlos/Documentos/UNISON-Cursos/Estructuras-de-Datos-2025-1/Tareas/Tarea01/Matriz/build/CMakeFiles/edit_cache.dir
-/home/Carlos/Documentos/UNISON-Cursos/Estructuras-de-Datos-2025-1/Tareas/Tarea01/Matriz/build/CMakeFiles/rebuild_cache.dir

@@ -18,7 +18,7 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 - **Editor:** Emacs
 - **Compilador/Intérprete:** GCC
 
-##  Cómo Compilar y Ejecutar
+## 🔨 Cómo Compilar y Ejecutar
 
 Para compilar el proyecto, usa el **Makefile** con el siguiente comando:
 

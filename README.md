@@ -24,4 +24,15 @@ Para compilar el proyecto, usa el **Makefile** con el siguiente comando:
 
 ```bash
 make
+```
+Una vez compilado, puedes ejecutar el proyecto con el siguiente comando:
+
+```bash
+./main
+```
+
+Si deseas eliminar los archivos de compilación (.o) y el ejecutable, puedes usar el siguiente comando:
+
+```bash
+make clean
 

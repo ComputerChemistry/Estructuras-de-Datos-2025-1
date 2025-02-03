@@ -20,8 +20,8 @@ int main() {
         miPila.Apilar(Vector(5, 0.2));
         miPila.Apilar(Vector(2, 3));
         miPila.Apilar(Vector(4, 3.1));
-//        miPila.Apilar(Vector(-2));  // Asumí que Vector tiene un constructor que toma un solo valor
-
+//        miPila.Apilar(Vector(-2));          
+        
         // Imprimir el contenido de la pila
         miPila.Imprimir();
         cout << "\n\n";
@@ -29,7 +29,7 @@ int main() {
         // Vaciar la pila
         miPila.Vaciar();
 
-        // Intentar desapilar elementos después de vaciar (esto debería lanzar una excepción)
+        // Intentar desapilar elementos después de vaciar 
         miPila.Desapilar();
         miPila.Desapilar();
 

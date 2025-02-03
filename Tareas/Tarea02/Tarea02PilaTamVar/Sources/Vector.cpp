@@ -25,6 +25,7 @@ Vector::Vector(int dimension, double valor) {
     }
 }
 */
+
 //********************************************
 // Constructor de copia
 Vector::Vector(const Vector &v) {
@@ -44,7 +45,7 @@ Vector::~Vector() {
 //********************************************
 // Operador de asignación
 Vector& Vector::operator=(const Vector &v) {
-    if (this == &v) return *this;  // Evitar la autoasignación
+    if (this == &v) return *this;  
 
     // Liberar memoria previa
     delete[] componente;
@@ -65,7 +66,7 @@ void Vector::Imprimir() const {
     cout << "(";
     for (int i = 0; i < dim; ++i) {
         cout << componente[i];
-        if (i < dim - 1) cout << ", ";  // Evitar coma al final
+        if (i < dim - 1) cout << ", ";  
     }
     cout << ")";
 }

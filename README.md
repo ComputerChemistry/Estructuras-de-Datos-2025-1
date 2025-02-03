@@ -10,7 +10,7 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 ### Trabajos de Clase
 
 - **Trabajo 1 - Prueba Vector** [Enlace](./Clases/PruebaVector/)
-- **Trabajo 2 - Pila Tamaño Variable** [Enlace](./Clases/PilaTamVar/)
+- **Trabajo 2 - Pila Tamaño Fijo** [Enlace](./Clases/PilaTamFijo/)
 
 ## 🚀 Tecnologías Utilizadas
 

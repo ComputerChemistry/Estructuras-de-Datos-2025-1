@@ -60,13 +60,13 @@ void Pila<Tipo>::Vaciar() {
 
 //***************************************
 template <typename Tipo>
-void Pila<Tipo>::Desapilar() {
+Tipo Pila<Tipo>::Desapilar() {
     if (EstaVacia()) {
         throw std::underflow_error("Error: La pila está vacía");
     }
-    --tope;
+    --tope; // Mover el índice del tope hacia abajo
+    return elemento[tope]; // Devuelves el valor desapilado
 }
-
 //***************************************
 template <typename Tipo>
 Tipo Pila<Tipo>::ObtenerTope() const {

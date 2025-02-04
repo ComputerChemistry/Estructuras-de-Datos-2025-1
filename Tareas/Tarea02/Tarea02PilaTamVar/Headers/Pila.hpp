@@ -13,7 +13,7 @@ public:
     Pila(const Pila<Tipo>& otra); // Constructor de copia
     Pila<Tipo>& operator=(const Pila<Tipo>& otra); // Operador de asignación
     void Apilar(Tipo valor);      // Método para apilar un valor
-    void Desapilar();             // Método para desapilar un valor
+    Tipo Desapilar();             // Método para desapilar un valor
     Tipo ObtenerTope() const;     // Método para obtener el valor del tope
     bool EstaVacia() const;       // Método para verificar si la pila está vacía
     bool EstaLlena() const;       // Método para verificar si la pila está llena

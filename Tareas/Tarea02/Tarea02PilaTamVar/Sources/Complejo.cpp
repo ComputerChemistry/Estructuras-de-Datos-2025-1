@@ -18,3 +18,8 @@ Complejo Complejo::operator+(const Complejo& otro) const {
 void Complejo::Imprimir() const {
     std::cout << real << " + " << imaginario << "i" << std::endl;
 }
+
+std::ostream& operator<<(std::ostream& out, const Complejo& c) {
+    out << c.real << " + " << c.imaginario << "i";
+    return out;
+}

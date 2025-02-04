@@ -13,6 +13,8 @@ public:
     double ObtenerImaginario() const;
     Complejo operator+(const Complejo& otro) const;
     void Imprimir() const;
+    friend std::ostream& operator<<(std::ostream& out, const Complejo& c);
+
 };
 
 #endif// COMPLEJO_HPP_INCLUDED

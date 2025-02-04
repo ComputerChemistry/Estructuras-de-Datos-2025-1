@@ -1,6 +1,8 @@
 # Estructuras-de-Datos-2025-1
 Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2025-1 de la Licenciatura en Ciencias de la Computación.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/ComputerChemistry/Estructuras-de-Datos-2025-1?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/ComputerChemistry/Estructuras-de-Datos-2025-1?style=for-the-badge&color=cba6f7) ![Github text editor](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white) ![Github Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Makefile](https://img.shields.io/badge/Build-Makefile-89b4fa?style=for-the-badge&logo=gnu&logoColor=white) ![Github License](https://img.shields.io/badge/MIT-green?style=for-the-badge)
+
 ## 📂 Contenido del Repositorio
 
 ### Tareas
@@ -10,7 +12,7 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 ### Trabajos de Clase
 
 - **Trabajo 1 - Prueba Vector** [Enlace](./Clases/PruebaVector/)
-- **Trabajo 2 - Pila Tamaño Fijo** [Enlace](./Clases/PilaTamFijo/)
+- **Trabajo 2 - Pila Tamaño Variable** [Enlace](./Clases/PilaTamFijo/)
 
 ## 🚀 Tecnologías Utilizadas
 

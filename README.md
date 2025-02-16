@@ -9,11 +9,15 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 
 - **Tarea 1 - Clase Matriz** [Enlace](./Tareas/Tarea01/Tarea01Matriz/)
 - **Tarea 2 - Pila Tamaño Variable** [Enlace](./Tareas/Tarea02/Tarea02PilaTamVar/))
+- **Tarea 3 - Aplicacion de Pilas** [Enlace](./Tareas/Tareaa03/Tarea03AplicaciondePila/)
+
 ### Trabajos de Clase
 
 - **Trabajo 1 - Prueba Vector** [Enlace](./Clases/PruebaVector/)
-- **Trabajo 2 - Pila Tamaño Variable** [Enlace](./Clases/PilaTamFijo/)
+- **Trabajo 2 - Pila Tamaño Fijo** [Enlace](./Clases/PilaTamFijo/)
 - **Trabajo 3 - Prueba Pila Dinamica** [Enlace](./Clases/PruebaPilaDinamica/)
+- **Trabajo 4 - Cola** [Enlace](./Clases/PruebaCola/) 
+
 ## 🚀 Tecnologías Utilizadas
 
 - **Lenguaje:** C++

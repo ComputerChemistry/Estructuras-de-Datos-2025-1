@@ -1,3 +1,0 @@
-/home/Carlos/Documentos/UNISON-Cursos/Estructuras-de-Datos-2025-1/Clases/Clase-14-01-25/build/CMakeFiles/Prueba_Vector.dir
-/home/Carlos/Documentos/UNISON-Cursos/Estructuras-de-Datos-2025-1/Clases/Clase-14-01-25/build/CMakeFiles/edit_cache.dir
-/home/Carlos/Documentos/UNISON-Cursos/Estructuras-de-Datos-2025-1/Clases/Clase-14-01-25/build/CMakeFiles/rebuild_cache.dir

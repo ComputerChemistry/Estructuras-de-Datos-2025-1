@@ -18,6 +18,7 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 | **Tarea 1** | Implementación de una clase Matriz en C++ | [🔗 Aquí](./Tareas/Tarea01/Tarea01Matriz/) |
 | **Tarea 2** | Implementación de una pila de tamaño variable | [🔗 Aquí](./Tareas/Tarea02/Tarea02PilaTamVar/) |
 | **Tarea 3** | Aplicación de pilas en la evaluación de expresiones en **Notación Polaca Inversa (RPN)**. | [🔗 Aquí](./Tareas/Tarea03/Tarea03AplicaciondePila/) |
+| **Tarea 4** | Aplicación de Colas **Banco con Tres Cajas**. | [🔗 Aquí](./Tareas/Tarea04/Tarea03AplicaciondeColas/) |
 
 ### 🏫 **Trabajos de Clase**
 | Trabajo | Descripción | Enlace |

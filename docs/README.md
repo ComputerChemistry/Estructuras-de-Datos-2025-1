@@ -43,13 +43,13 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 Aquí podrás encontrar la documentación de los proyectos realizados, organizada por tareas y proyectos:
 
 - **Tarea 1: Implementación de una clase Matriz en C++**  
-  [📄 Ver documentación](https://computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea01/docs01/index.html)
+  [📄 Ver documentación](computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea01/docs01/index.html)
 
 - **Tarea 2: Implementación de una pila de tamaño variable**  
-  [📄 Ver documentación](https://computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea02/docs02/index.html)
+  [📄 Ver documentación](computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea02/docs02/index.html)
 
 - **Tarea 3: Aplicación de pilas en la evaluación de expresiones en Notación Polaca Inversa (RPN)**  
-  [📄 Ver documentación](https://computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea03/docs03/index.html)
+  [📄 Ver documentación](computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea03/docs03/index.html)
 
 ---
 

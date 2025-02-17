@@ -13,19 +13,19 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 ## 📂 Contenido del Repositorio  
 
 ### 🔹 **Tareas**
-| Tarea  | Descripción | Enlace |
-|--------|------------|--------|
-| **Tarea 1** | Implementación de una clase Matriz en C++ | [🔗 Aquí](./Tareas/Tarea01/Tarea01Matriz/) |
-| **Tarea 2** | Implementación de una pila de tamaño variable | [🔗 Aquí](./Tareas/Tarea02/Tarea02PilaTamVar/) |
-| **Tarea 3** | Aplicación de pilas en la evaluación de expresiones en **Notación Polaca Inversa (RPN)**. | [🔗 Aquí](./Tareas/Tarea03/Tarea03AplicaciondePila/) |
+| Tarea    | Descripción                                                                 | Enlace                                                      |
+|----------|-----------------------------------------------------------------------------|-------------------------------------------------------------|
+| **Tarea 1** | Implementación de una clase Matriz en C++                                    | [🔗 Aquí](./Tareas/Tarea01/Tarea01Matriz/)                  |
+| **Tarea 2** | Implementación de una pila de tamaño variable                                | [🔗 Aquí](./Tareas/Tarea02/Tarea02PilaTamVar/)              |
+| **Tarea 3** | Aplicación de pilas en la evaluación de expresiones en **Notación Polaca Inversa (RPN)**. | [🔗 Aquí](./Tareas/Tarea03/Tarea03AplicaciondePila/)        |
 
 ### 🏫 **Trabajos de Clase**
-| Trabajo | Descripción | Enlace |
-|---------------|------------|--------|
-| **Trabajo 1** | Implementación y prueba de la estructura `Vector` en C++ | [🔗 Aquí](./Clases/PruebaVector/) |
-| **Trabajo 2** | Implementación de una pila de tamaño fijo | [🔗 Aquí](./Clases/PilaTamFijo/) |
-| **Trabajo 3** | Implementación y prueba de una pila dinámica | [🔗 Aquí](./Clases/PruebaPilaDinamica/) |
-| **Trabajo 4** | Implementación de la estructura de datos Cola | [🔗 Aquí](./Clases/PruebaCola/) |
+| Trabajo    | Descripción                                                               | Enlace                                                      |
+|------------|---------------------------------------------------------------------------|-------------------------------------------------------------|
+| **Trabajo 1** | Implementación y prueba de la estructura `Vector` en C++                  | [🔗 Aquí](./Clases/PruebaVector/)                           |
+| **Trabajo 2** | Implementación de una pila de tamaño fijo                                 | [🔗 Aquí](./Clases/PilaTamFijo/)                            |
+| **Trabajo 3** | Implementación y prueba de una pila dinámica                              | [🔗 Aquí](./Clases/PruebaPilaDinamica/)                     |
+| **Trabajo 4** | Implementación de la estructura de datos Cola                             | [🔗 Aquí](./Clases/PruebaCola/)                             |
 
 ---
 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Clase01_Prueba.dir/link.d CMakeFiles/Clase01_Prueba.dir/main.cpp.o -o Clase01_Prueba

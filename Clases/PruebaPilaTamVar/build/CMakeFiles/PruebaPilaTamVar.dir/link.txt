@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/PruebaPilaTamVar.dir/link.d CMakeFiles/PruebaPilaTamVar.dir/Sources/main.cpp.o CMakeFiles/PruebaPilaTamVar.dir/Sources/Pila.cpp.o CMakeFiles/PruebaPilaTamVar.dir/Sources/Vector.cpp.o -o PruebaPilaTamVar

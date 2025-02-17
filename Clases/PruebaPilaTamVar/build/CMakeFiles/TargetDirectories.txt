@@ -1,0 +1,3 @@
+/home/Carlos/Documentos/UNISON-Cursos/Estructuras-de-Datos-2025-1/Clases/PruebaPilaTamVar/build/CMakeFiles/PruebaPilaTamVar.dir
+/home/Carlos/Documentos/UNISON-Cursos/Estructuras-de-Datos-2025-1/Clases/PruebaPilaTamVar/build/CMakeFiles/edit_cache.dir
+/home/Carlos/Documentos/UNISON-Cursos/Estructuras-de-Datos-2025-1/Clases/PruebaPilaTamVar/build/CMakeFiles/rebuild_cache.dir

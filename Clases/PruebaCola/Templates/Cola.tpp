@@ -1,10 +1,13 @@
 //Cola.tpp
 #include <iostream> 
+#include <chrono>
+#include <thread>
 #include "../Headers/Cola.hpp"
 
 using std::cout; 
 using std::endl;
 using std::cerr; 
+
 
 //Constructor por Default 
 Cola<Tipo>::Cola : numElem, elemento(NULL){}
@@ -59,9 +62,9 @@ void Cola<Tipo>::Encolar(Tipo valor){
 //*********************************************
 Tipo Cola<Tipo>::Desencolar(){
   if(EstaVacia()) {
-   throw std::underflow_error("Error: la cola esta vacia ")
-    
+   throw std::underflow_error("Error: la cola esta vacia ") 
 }
+  
   --ultimo;
   return elemento[ultimo];
 

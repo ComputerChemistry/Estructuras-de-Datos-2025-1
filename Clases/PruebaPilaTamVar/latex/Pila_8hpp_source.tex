@@ -1,0 +1,30 @@
+\doxysection{Pila.\+hpp}
+\hypertarget{Pila_8hpp_source}{}\label{Pila_8hpp_source}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{00001\ \textcolor{preprocessor}{\#ifndef\ PILA\_HPP\_INCLUDED}}
+\DoxyCodeLine{00002\ \textcolor{preprocessor}{\#define\ PILA\_HPP\_INCLUDED}}
+\DoxyCodeLine{00003\ \textcolor{preprocessor}{\#define\ MAX\_TAM\ 100}}
+\DoxyCodeLine{00004\ }
+\DoxyCodeLine{00005\ \textcolor{preprocessor}{\#include\ "{}\mbox{\hyperlink{Vector_8hpp}{Vector.hpp}}"{}}}
+\DoxyCodeLine{00006\ }
+\DoxyCodeLine{00007\ \textcolor{keyword}{template}\ <\textcolor{keyword}{typename}\ Tipo>}
+\DoxyCodeLine{00008\ \textcolor{keyword}{class\ }Pila\ \{}
+\DoxyCodeLine{00009\ \textcolor{keyword}{public}:}
+\DoxyCodeLine{00010\ \ \ \ \ Pila();\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{comment}{//\ Constructor}}
+\DoxyCodeLine{00011\ \ \ \ \ \textcolor{keywordtype}{void}\ Apilar(Tipo\ valor);\ \ \ \ \ \ \textcolor{comment}{//\ Método\ para\ apilar\ un\ valor}}
+\DoxyCodeLine{00012\ \ \ \ \ \textcolor{keywordtype}{void}\ Desapilar();\ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{comment}{//\ Método\ para\ desapilar\ un\ valor}}
+\DoxyCodeLine{00013\ \ \ \ \ Tipo\ ObtenerTope()\ \textcolor{keyword}{const};\ \ \ \ \ \textcolor{comment}{//\ Método\ para\ obtener\ el\ valor\ del\ tope}}
+\DoxyCodeLine{00014\ \ \ \ \ \textcolor{keywordtype}{bool}\ EstaVacia()\ \textcolor{keyword}{const};\ \ \ \ \ \ \ \textcolor{comment}{//\ Método\ para\ verificar\ si\ la\ pila\ está\ vacía}}
+\DoxyCodeLine{00015\ \ \ \ \ \textcolor{keywordtype}{bool}\ EstaLlena()\ \textcolor{keyword}{const};\ \ \ \ \ \ \ \textcolor{comment}{//\ Método\ para\ verificar\ si\ la\ pila\ está\ llena}}
+\DoxyCodeLine{00016\ \ \ \ \ \textcolor{keywordtype}{void}\ Imprimir()\ \textcolor{keyword}{const};\ \ \ \ \ \ \ \ \textcolor{comment}{//\ Método\ para\ imprimir\ los\ elementos\ de\ la\ pila}}
+\DoxyCodeLine{00017\ \ \ \ \ \textcolor{keywordtype}{void}\ Vaciar();\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{comment}{//\ Método\ para\ vaciar\ la\ pila}}
+\DoxyCodeLine{00018\ }
+\DoxyCodeLine{00019\ \textcolor{keyword}{private}:}
+\DoxyCodeLine{00020\ \ \ \ \ \textcolor{keywordtype}{int}\ tope;\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{comment}{//\ Índice\ del\ tope\ de\ la\ pila}}
+\DoxyCodeLine{00021\ \ \ \ \ Tipo\ elemento[MAX\_TAM];\ \ \ \ \ \ \ \ \textcolor{comment}{//\ Arreglo\ para\ almacenar\ los\ elementos\ de\ la\ pila}}
+\DoxyCodeLine{00022\ \};}
+\DoxyCodeLine{00023\ }
+\DoxyCodeLine{00024\ \textcolor{preprocessor}{\#include\ "{}Pila.tpp"{}}}
+\DoxyCodeLine{00025\ \textcolor{preprocessor}{\#endif\ }\textcolor{comment}{//\ PILA\_HPP\_INCLUDED}}
+
+\end{DoxyCode}

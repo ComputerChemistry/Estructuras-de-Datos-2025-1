@@ -21,7 +21,7 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 
 ### 🏫 **Trabajos de Clase**
 | Trabajo | Descripción | Enlace |
-|---------|------------|--------|
+|---------------|------------|--------|
 | **Trabajo 1** | Implementación y prueba de la estructura `Vector` en C++ | [🔗 Aquí](./Clases/PruebaVector/) |
 | **Trabajo 2** | Implementación de una pila de tamaño fijo | [🔗 Aquí](./Clases/PilaTamFijo/) |
 | **Trabajo 3** | Implementación y prueba de una pila dinámica | [🔗 Aquí](./Clases/PruebaPilaDinamica/) |
@@ -54,5 +54,3 @@ Si deseas eliminar los archivos de compilación (.o) y el ejecutable, puedes usa
 
 ```bash
 make clean
-```
-

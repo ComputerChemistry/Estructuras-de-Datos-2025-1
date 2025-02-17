@@ -59,6 +59,6 @@ Una vez compilado, puedes ejecutar el proyecto con el siguiente comando:
 ```
 
 Si deseas eliminar los archivos de compilación (.o) y el ejecutable, puedes usar el siguiente comando:
-
 ```bash
 make clean
+```

@@ -54,4 +54,5 @@ Si deseas eliminar los archivos de compilación (.o) y el ejecutable, puedes usa
 
 ```bash
 make clean
+```
 

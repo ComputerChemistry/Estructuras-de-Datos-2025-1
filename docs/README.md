@@ -20,7 +20,12 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
   [🔗 Aquí](https://github.com/ComputerChemistry/Estructuras-de-Datos-2025-1/tree/main/Tareas/Tarea02/Tarea02PilaTamVar)
 
 - **Tarea 3**: Aplicación de pilas en la evaluación de expresiones en **Notación Polaca Inversa (RPN)**  
-  [🔗 Aquí](https://github.com/ComputerChemistry/Estructuras-de-Datos-2025-1/tree/main/Tareas/Tarea03/Tarea03AplicaciondePila)
+  [🔗 Aquí](https://github.com/ComputerChemistry/Estructuras-de-Datos-2025-1/tree/main/Tareas/Tarea03/Tarea03AplicaciondePilas)
+
+- **Tarea 5**: Lista Doblemente Enlazada**  
+  [🔗 Aquí](https://github.com/ComputerChemistry/Estructuras-de-Datos-2025-1/tree/main/Tareas/Tarea05/Tarea05ListaDobleEnlazada)
+
+
 
 ### 🏫 **Trabajos de Clase**
 

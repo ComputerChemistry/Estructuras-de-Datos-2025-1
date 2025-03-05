@@ -51,6 +51,10 @@ Aquí podrás encontrar la documentación de los proyectos realizados, organizad
 - **Tarea 3: Aplicación de pilas en la evaluación de expresiones en Notación Polaca Inversa (RPN)**  
   [📄 Ver documentación](https://computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea03/docs03/index.html)
 
+- **Tarea 5: Lista Doblemente Enlazada**  
+  [📄 Ver documentación](https://computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea05/docs05/index.html)
+
+
 ---
 
 ## 🚀 Tecnologías Utilizadas  

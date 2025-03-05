@@ -19,6 +19,7 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 | **Tarea 2** | Implementación de una pila de tamaño variable | [🔗 Aquí](./Tareas/Tarea02/Tarea02PilaTamVar/) |
 | **Tarea 3** | Aplicación de pilas en la evaluación de expresiones en **Notación Polaca Inversa (RPN)**. | [🔗 Aquí](./Tareas/Tarea03/Tarea03AplicaciondePila/) |
 | **Tarea 4** | Aplicación de Colas **Banco con Tres Cajas**. | [🔗 Aquí](./Tareas/Tarea04/Tarea03AplicaciondeColas/) |
+| **Tarea 5** | Lista Doblemente Enlazada. | [🔗 Aquí](./Tareas/Tarea05/ListaDobleEnlazada/) |
 
 ### 🏫 **Trabajos de Clase**
 | Trabajo | Descripción | Enlace |
@@ -42,6 +43,10 @@ Aquí podrás encontrar la documentación de los proyectos realizados, organizad
 
 - **Tarea 3: Aplicación de pilas en la evaluación de expresiones en Notación Polaca Inversa (RPN)**  
   [📄 Ver documentación](https://computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea03/docs03/index.html)
+
+- **Tarea 5: Lista Doblemente Enlazada**  
+  [📄 Ver documentación](https://computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea05/docs05/index.html)
+
 
 ---
 

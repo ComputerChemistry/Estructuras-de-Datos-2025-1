@@ -20,6 +20,8 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
 | **Tarea 3** | Aplicación de pilas en la evaluación de expresiones en **Notación Polaca Inversa (RPN)**. | [🔗 Aquí](./Tareas/Tarea03/Tarea03AplicaciondePila/) |
 | **Tarea 4** | Aplicación de Colas **Banco con Tres Cajas**. | [🔗 Aquí](./Tareas/Tarea04/Tarea03AplicaciondeColas/) |
 | **Tarea 5** | Lista Doblemente Enlazada. | [🔗 Aquí](./Tareas/Tarea05/ListaDobleEnlazada/) |
+| **Tarea 6** | Implementacion de una lista doble enlazada ordenada | [🔗 Aquí](./Tareas/Tarea06/Tarea06ListaOrdenada) |
+
 
 ### 🏫 **Trabajos de Clase**
 | Trabajo | Descripción | Enlace |

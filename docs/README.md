@@ -26,7 +26,6 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
   [🔗 Aquí](https://github.com/ComputerChemistry/Estructuras-de-Datos-2025-1/tree/main/Tareas/Tarea05/Tarea05ListaDobleEnlazada)
 
 
-
 ### 🏫 **Trabajos de Clase**
 
 - **Trabajo 1**: Implementación y prueba de la estructura `Vector` en C++  
@@ -42,6 +41,13 @@ Proyectos realizados en la materia de Estructuras de Datos durante el semestre 2
   [🔗 Aquí](https://github.com/ComputerChemistry/Estructuras-de-Datos-2025-1/tree/main/Clases/PruebaCola)
 
 ---
+
+### 🔹 **Examenes**
+
+  - **Examen 2**: Lista Circular Doblemente Enlazada  
+   [🔗 Aquí](https://github.com/ComputerChemistry/Estructuras-de-Datos-2025-1/tree/main/Examenes/Examen02/Examen02ListaCircularDoble)
+
+
 
 ## 📖 **Documentación**
 
@@ -59,6 +65,8 @@ Aquí podrás encontrar la documentación de los proyectos realizados, organizad
 - **Tarea 5: Lista Doblemente Enlazada**  
   [📄 Ver documentación](https://computerchemistry.github.io/Estructuras-de-Datos-2025-1/Tarea05/docs05/index.html)
 
+- **Examen 2: Lista Circular Doblemente Enlazada**  
+  [📄 Ver documentación](https://computerchemistry.github.io/Estructuras-de-Datos-2025-1/Examen02/docs-examen02/index.html)
 
 ---
 
